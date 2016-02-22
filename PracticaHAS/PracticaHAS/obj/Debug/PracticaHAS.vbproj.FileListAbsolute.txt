@@ -1,0 +1,48 @@
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.Resources.resources
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.vbproj.GenerateResource.Cache
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\bin\PracticaHAS.dll
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\bin\PracticaHAS.pdb
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\bin\PracticaHAS.xml
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.dll
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.xml
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.pdb
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.vbprojResolveAssemblyReference.cache
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\bin\Funciones.dll
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\bin\Funciones.pdb
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\bin\Funciones.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\bin\PracticaHAS.dll
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\bin\PracticaHAS.pdb
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\bin\PracticaHAS.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\bin\Funciones.dll
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\bin\Funciones.pdb
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\bin\Funciones.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.vbprojResolveAssemblyReference.cache
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.Resources.resources
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.vbproj.GenerateResource.Cache
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.dll
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab2\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.pdb
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\bin\PracticaHAS.dll
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\bin\PracticaHAS.pdb
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\bin\PracticaHAS.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\bin\Funciones.dll
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\bin\Funciones.pdb
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\bin\Funciones.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.vbprojResolveAssemblyReference.cache
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.Resources.resources
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.vbproj.GenerateResource.Cache
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.dll
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.xml
+C:\Users\Jose Ángel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.pdb
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\bin\PracticaHAS.dll
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\bin\PracticaHAS.pdb
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\bin\PracticaHAS.xml
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\bin\Funciones.dll
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\bin\Funciones.pdb
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\bin\Funciones.xml
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.vbprojResolveAssemblyReference.cache
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.Resources.resources
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.vbproj.GenerateResource.Cache
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.dll
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.xml
+C:\Users\JoseÁngel\Documents\Visual Studio 2012\Projects\Lab3\PracticaHAS\PracticaHAS\obj\Debug\PracticaHAS.pdb
